@@ -1,6 +1,8 @@
 # Neuron Modeling Tutorial
 This is a single neuron modeling tutorial developed for the [Imbizo 2023 Summer School](imbizo.africa).
 
+**Note**: This tutorial was edited for the [Imbizo 2025 Summer School](imbizo.africa).
+
 **Title**: Neuron Modeling and Ordinary Differential Equations
 
 **Key Learning Objectives**: 
@@ -21,7 +23,7 @@ ODE tutorial is for students without this math background
   - Methods of Solution: Analytic and Numerical
   - Constant Growth (Linear Model)
   - Proportional Growth/Decay (Exponential Model)
-  - Growth as an asymptote (Logistic Model)
+  - Growth as an asymptote (Logistic Model) 
 - Leaky-Integrate-and-Fire Tutorial
   - A Return to the Hodgkin Huxley (HH) Equations
   - Building a LIF Model
