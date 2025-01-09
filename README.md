@@ -9,7 +9,7 @@ This is a single neuron modeling tutorial developed for the [Imbizo 2023 Summer 
 - The tutorial's aim is to develop a deep intuition for single neuron modeling, and it is in 2 parts*. 
 - First is to build a mathematical intuition of first order ordinary differential equations (ODEs), practice analytical and numerical solutions of ODEs, and apply this mathematical knowledge to understand logistic functions as a building block for neuron models. 
 - Second is to use knowledge of logistic functions to understand leaky integrate and fire (LIF) neuron models and interrogate the model's input-output relationship by exploring input noise, spike frequency, and spike regularity.
-- *Miniprojects encourages students to try implementing nonlinear Integrate and Fire (IF) neuron models and conductance-based neuron models using the material covered in the tutorial
+- *Extended Homework encourages students to try implementing nonlinear Integrate and Fire (IF) neuron models and conductance-based neuron models using the material covered in the tutorial
 
 **Basic/Foundational Math concepts**: 
 - Calculus - derivation and integration
@@ -34,7 +34,7 @@ ODE tutorial is for students without this math background
     - Measuring and Visualizing Inter-Spike-Intervals
       - Given a current input, how regularly or irregularly does a neuron spike?
     - Coefficient of Variance
-- *Miniprojects
+- *Extended Homework
   - More practice with solving ODEs
   - Implementing and Analyzing the Input/Output Relationships of Nonlinear IF Models and IF Models with Adaptation
   - Implementing and Analyzing the Input/Output Relationships of the Hodgkin-Huxley Model
